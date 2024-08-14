@@ -11,6 +11,5 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-HTML , CSS , JAVASCRIPT
-C++ , C
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanushreeborase&" alt="tanushreeborase" /></p>
+ HTML , CSS , JAVASCRIPT
+ C++ , C
