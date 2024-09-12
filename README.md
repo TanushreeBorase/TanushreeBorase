@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Machine Learning<br>🎯 Goals: To improve my coding skills and continuos learning <br>🎲 Fun Fact: I like debugging <br> ✨I love cricket</p>
+<p align="left"><br>📚 I'm currently learning Machine Learning<br>🎯 Goals: To improve my coding skills and continuos learning <br>🎲 Fun Fact: I like debugging <br> ✨I love cricket</p>
 
 ###
 
