@@ -16,7 +16,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanushreeborase&show_icons=true&locale=en&layout=compact" alt="tanushreeborase" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanushreeborase&" alt="tanushreeborase" /></p>
 
 
 <h2 align="left">I code with</h2>
