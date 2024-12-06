@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👩‍💻I like debugging <br> 📚 I'm currently learning Machine Learning<br>🎯 Goals: To improve my coding skills and continuos learning <br>🎲 Fun Fact: I like I am passionate about nutrition and a healthy lifestyle. <br> ✨I love cricket</p>
+<p align="left">👩‍💻I like debugging <br> 📚 I'm currently learning Machine Learning<br>🎯 Goals: To improve my coding skills and continuous learning <br>🎲 Fun Fact: I like I am passionate about nutrition and a healthy lifestyle. <br> ✨I love cricket</p>
 
 ###
 
