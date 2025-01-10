@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Tanushree and I'm a third year student at SRM Institute of Science and Technology,KTR.</p>
+<p align="left">My name is Tanushree and I'm a cs student at SRM Institute of Science and Technology,KTR.</p>
 
 ###
 
