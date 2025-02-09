@@ -42,5 +42,3 @@
 <h2 align="left"> My open source contribution badges</h2>
 Website to visit: https://www.holopin.io/@tanushreeborase#badges
 
-![image](https://github.com/user-attachments/assets/28d94751-ef78-410d-9dcd-f88a26ddd362)
-
